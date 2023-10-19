@@ -1,4 +1,4 @@
-RESTful Furniture Shop API
+##RESTful Furniture Shop API
 Furniture Shop Logo
 
 Welcome to the RESTful Furniture Shop API, a project showcasing my Node.js and Express skills. This project simulates the backend of a furniture shop, providing a RESTful API for managing products, customers, and orders. It uses JWT for authentication, Bcrypt for password hashing, and MongoDB with Mongoose for the database.
