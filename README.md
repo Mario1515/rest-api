@@ -2,16 +2,16 @@
 
 ![Furniture Shop Logo](https://your-logo-url-here.com)
 
-**RESTful Furniture Shop API** is a Node.js and Express.js project that serves as the backend for a simulated furniture shop. This project demonstrates RESTful principles and includes features for managing products, customers, and orders.
+**RESTful Furniture Shop API** was a Node.js and Express.js project that served as the backend for a simulated furniture shop. This project demonstrated RESTful principles and included features for managing products, customers, and orders. The frontend, created with HTML, CSS, and JavaScript, was designed to interact with this API.
 
 ## Features
 
-- **CRUD Operations**: Perform Create, Read, Update, and Delete operations for products, customers, and orders.
-- **Authentication**: Secure your API endpoints with JSON Web Tokens (JWT).
-- **Password Hashing**: User passwords are hashed with Bcrypt for security.
-- **Database**: Utilize MongoDB as the database backend with Mongoose for easy data modeling.
-- **CORS**: Handle Cross-Origin Resource Sharing with the CORS npm package.
-- **RESTful Design**: Adheres to REST principles for a logical and predictable API structure.
+- **CRUD Operations**: Supported Create, Read, Update, and Delete operations for products, customers, and orders.
+- **Authentication**: Secured API endpoints with JSON Web Tokens (JWT).
+- **Password Hashing**: Hashed user passwords with Bcrypt for security.
+- **Database**: Utilized MongoDB as the database backend with Mongoose for easy data modeling.
+- **CORS**: Handled Cross-Origin Resource Sharing with the CORS npm package.
+- **RESTful Design**: Adhered to REST principles for a logical and predictable API structure.
 
 ## Technologies Used
 
@@ -24,11 +24,11 @@
 
 ## Project Structure
 
-The project directory structure is organized as follows:
+The project directory structure was organized as follows:
 
-- `client/` - Contains the frontend of the application written in HTML, CSS, and JavaScript.
-- `server/` - The backend server using Node.js and Express.
-- `models/` - Database schemas defined with Mongoose.
+- `client/` - Contained the frontend of the application created with HTML, CSS, and JavaScript.
+- `server/` - The backend server implemented with Node.js and Express.
+- `models/` - Database schemas were defined using Mongoose.
 - `routes/` - API route definitions and controllers.
 - `config/` - Configuration files for JWT and other settings.
 - `middleware/` - Custom middleware functions.
@@ -38,17 +38,23 @@ The project directory structure is organized as follows:
 
 ## Getting Started
 
-To get started with this project, follow the instructions in the [Installation](#installation) section of the README.
+To get started with this project, you could have followed the instructions in the [Installation](#installation) section of the README.
 
 ## API Documentation
 
-For detailed information on API endpoints and how to use them, please refer to the [API documentation](api-documentation.md).
+For detailed information on API endpoints and how to use them, you could have referred to the [API documentation](api-documentation.md).
 
 ## Contributing
 
-Contributions to this project are welcome. Please follow the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) if you wish to contribute.
+Contributions to this project were always welcome. You could have followed the guidelines in [CONTRIBUTING.md](CONTRIBUTING.md) if you wished to contribute.
 
 ## License
+
+This project was licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Feel free to reach out if you have any questions or feedback. Happy coding and showcasing your RESTful API skills!
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
