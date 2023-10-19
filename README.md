@@ -31,7 +31,7 @@ The project directory structure was organized as follows:
 
 ## Getting Started
 
-
+To start the program, run it with npm start within nodeJS's enviroment
 
 ## License
 
