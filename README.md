@@ -20,6 +20,8 @@
 - Bcrypt (Password hashing)
 - CORS (Cross-Origin Resource Sharing)
 - HTML, CSS, JS (frontend)
+- Lite Server to handle frontend server
+   
 ## Project Structure
 
 The project directory structure was organized as follows:
@@ -29,7 +31,6 @@ The project directory structure was organized as follows:
 
 ## Getting Started
 
-To get started with this project, you could have followed the instructions in the [Installation](#installation) section of the README.
 
 
 ## License
